@@ -63,6 +63,4 @@ Dataset Python va `Faker` kutubxonasi yordamida yaratildi (5000 ta buyurtma yozu
 ## 📂 Loyihani Ishga Tushirish
 1. Repository’ni klonlash:  
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-sales-analysis.git
-
->>>>>>> 857aa59539057c97a39cb33fb63ccf5242052160
+git clone https://github.com/JavlonAliyev/ecommerce-sales-analysis.git
